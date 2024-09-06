@@ -1,8 +1,8 @@
 ---
-title: ベイズ統計学を学んだのでまとめてみた
+title: mathjax のチートシートを作成してみた
 emoji: 
 type: tech
-topics: [statistics]
+topics: [python, markdown, mathjax]
 published: False
 ---
 
