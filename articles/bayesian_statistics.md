@@ -1,3 +1,11 @@
+---
+title: ベイズ統計学を学んだのでまとめてみた
+emoji: 
+type: tech
+topics: [statistics]
+published: False
+---
+
 # ベイズ統計
 
 ## 客観確率と主観確率

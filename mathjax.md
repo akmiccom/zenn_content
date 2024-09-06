@@ -1,4 +1,0 @@
-# Mathjax Cheat Sheet
-
-## スペース
-- 
