@@ -1,3 +1,11 @@
+---
+title: 数値計算に重要な数学まとめ
+emoji: 
+type: tech
+topics: [python, Linux]
+published: False
+---
+
 # 数値計算に重要な数学
 
 Python で数値計算などをする場合に必要となった数学の知識についてまとめておきます。
