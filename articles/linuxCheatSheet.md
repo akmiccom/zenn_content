@@ -9,10 +9,12 @@ published: False
 <!-- https://qiita.com/miyamasaru/items/238f6e469982fa76c2e8 -->
 
 # Linux Cheat Sheet
+
 とりあえず簡単なものだけメモとしてまとめてみました。
 ヘビーユーザーではないのでこれくらいで十分そうです。
 
 ## ファイル操作
+
 | Command |       Despriction        |  Optins  |       Examples        |
 | :-----: | :----------------------: | :------: | :-------------------: |
 |   ls    | ファイルディレクトリ表示 | -l -a -h |         ls -l         |
@@ -27,7 +29,6 @@ published: False
 |  head   |      最初の数行表示      |    -n    |  head -n 5 file.txt   |
 |  tail   |      最後の数行表示      |    -n    |  tail -n 5 file.txt   |
 |  clear  |       履歴のクリア       |          |       Ctrl + l        |
-
 
 ## 使いそうなコマンド
 
